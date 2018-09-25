@@ -34,7 +34,9 @@ You will set it up and then take measurements.
 
 # Submission
 
-When your project is ready to grade, submit your complete cs2-lab3-listperformance-java repository URL including your GitHub userid on Sakai as an inline submission.
+- When your project is ready to grade, submit your complete cs2-lab3-listperformance-java repository URL including your GitHub userid on Sakai as an inline submission.
+
+- In addition, submit the spreadsheet with your performance measurements and the resulting chart, either by including its URL in your inline submission or including the spreadsheet document itself in your repository.
 
 # Grading
 
