@@ -32,16 +32,9 @@ You will set it up and then take measurements.
 2. Conduct the performance measurements: you will find the running times in the test report.
 4. Create a markdown document called Answers.md and answer the various questions embedded in the code.
 
-# Deliverables and submission
+# Submission
 
-Please submit the following deliverables:
-
-- Shared GitHub Classroom lab3 repository where you worked on this project as a group 
-  (there should be commits from all group members)
-- Individual Sakai submission under "Lab 3":
-  - URL of shared GitHub team repository
-  - Brief description of your collaboration style and summary of your 
-    individual contributions to this team project
+When your project is ready to grade, submit your complete cs2-lab3-listperformance-java repository URL including your GitHub userid on Sakai as an inline submission.
 
 # Grading
 
