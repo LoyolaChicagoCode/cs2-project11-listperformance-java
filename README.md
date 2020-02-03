@@ -1,9 +1,8 @@
-# Loyola COMP 271 Lab 3
+# Loyola COMP 271 Lab Activity 3
 
-# Individual project
+# Pair project
 
-Collaborate with your classmates on a conceptual level but do not share code.
-Submit individually.
+Collaborate with your teammates but submit individually.
 
 # Objectives
 
@@ -34,15 +33,14 @@ You will set it up and then take measurements.
 
 # Submission
 
-- When your project is ready to grade, submit your complete cs2-lab3-listperformance-java repository URL including your GitHub userid on Sakai as an inline submission.
-
-- In addition, submit the spreadsheet with your performance measurements and the resulting chart, either by including its URL in your inline submission or including the spreadsheet document itself in your repository.
+- Make sure you have created a separate project for this activity.
+- Include a project-specific readme file including your reflection and any other thoughts or design decisions.
+- In IDEA, export your project as a zip file and attach here. 
 
 # Grading
 
-- 1 submission via GitHub
-- 1 tests passing and completion of items marked TODO
-- 1 performance testing for increasing problem sizes
+- 1.5 tests passing and completion of items marked TODO
+- 1.5 performance testing for increasing problem sizes
 - 2 written part
   - 1.5 responses to the questions above
   - 0.5 grammar, style, formatting
