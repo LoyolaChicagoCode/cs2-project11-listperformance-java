@@ -37,7 +37,7 @@ You will set it up and then take measurements.
 - Include a project-specific readme file including your reflection and any other thoughts or design decisions.
 - In IDEA, export your project as a zip file and attach here. 
 
-# Grading
+# Grading (total 5)
 
 - 1.5 tests passing and completion of items marked TODO
 - 1.5 performance testing for increasing problem sizes
@@ -45,5 +45,3 @@ You will set it up and then take measurements.
   - 1.5 responses to the questions above
   - 0.5 grammar, style, formatting
 - 0.5 (optional) DRY in performance testing 
-
-*5 points TOTAL*
