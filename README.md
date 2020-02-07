@@ -1,5 +1,3 @@
-# Loyola COMP 271 Lab Activity 3
-
 # Pair project
 
 Collaborate with your teammates but submit individually.
