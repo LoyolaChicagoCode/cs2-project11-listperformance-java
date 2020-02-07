@@ -1,6 +1,7 @@
 # Pair project
 
 Collaborate with your teammates but submit individually.
+Clearly list the members of your team.
 
 # Objectives
 
