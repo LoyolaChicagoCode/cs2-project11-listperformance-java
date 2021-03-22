@@ -1,4 +1,6 @@
-# Pair project
+# Loyola COMP 271 Lab 10: performance of array-based vs. linked lists
+
+## Group activity
 
 Collaborate with your teammates but submit individually.
 Clearly list the members of your team.
