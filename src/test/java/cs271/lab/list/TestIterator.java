@@ -43,7 +43,7 @@ public class TestIterator {
     list.add(55);
     list.add(77);
     list.add(66);
-    final Iterator<Integer> i = list.iterator();
+    final var i = list.iterator();
     assertTrue(i.hasNext());
     assertEquals(33, i.next().intValue());
     // TODO fix the expected values in the assertions below
@@ -71,7 +71,7 @@ public class TestIterator {
     list.add(55);
     list.add(77);
     list.add(66);
-    final Iterator<Integer> i = list.iterator();
+    final var i = list.iterator();
     while (i.hasNext()) {
       if (i.next() == 77) {
         i.remove(); // TODO what happens if you use list.remove(Integer.valueOf(77))?
@@ -92,8 +92,8 @@ public class TestIterator {
     list.add(55);
     list.add(77);
     list.add(66);
-    double sum = 0;
-    int n = 0;
+    var sum = 0d;
+    var n = 0;
     // TODO use an iterator and a while loop to compute the average (mean) of the values
     // (defined as the sum of the items divided by the number of items)
     // testNonempty shows how to use an iterator; use i.hasNext() in the while loop condition

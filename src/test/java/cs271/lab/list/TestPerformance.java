@@ -28,7 +28,7 @@ public class TestPerformance {
   public void setUp() throws Exception {
     arrayList = new ArrayList<Integer>(SIZE);
     linkedList = new LinkedList<Integer>();
-    for (int i = 0; i < SIZE; i++) {
+    for (var i = 0; i < SIZE; i++) {
       arrayList.add(i);
       linkedList.add(i);
     }
@@ -42,7 +42,7 @@ public class TestPerformance {
 
   @Test
   public void testLinkedListAddRemove() {
-    for (int r = 0; r < REPS; r++) {
+    for (var r = 0; r < REPS; r++) {
       linkedList.add(0, 77);
       linkedList.remove(0);
     }
@@ -50,7 +50,7 @@ public class TestPerformance {
 
   @Test
   public void testArrayListAddRemove() {
-    for (int r = 0; r < REPS; r++) {
+    for (var r = 0; r < REPS; r++) {
       arrayList.add(0, 77);
       arrayList.remove(0);
     }
@@ -58,16 +58,16 @@ public class TestPerformance {
 
   @Test
   public void testLinkedListAccess() {
-    long sum = 0;
-    for (int r = 0; r < REPS; r++) {
+    var sum = 0L;
+    for (var r = 0; r < REPS; r++) {
       sum += linkedList.get(r % SIZE);
     }
   }
 
   @Test
   public void testArrayListAccess() {
-    long sum = 0;
-    for (int r = 0; r < REPS; r++) {
+    var sum = 0L;
+    for (var r = 0; r < REPS; r++) {
       sum += arrayList.get(r % SIZE);
     }
   }
