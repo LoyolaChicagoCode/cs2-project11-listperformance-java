@@ -30,7 +30,7 @@ public class TestIterator {
 
   @Test
   public void testEmpty() {
-    final Iterator<Integer> i = list.iterator();
+    final var i = list.iterator();
     assertFalse(i.hasNext());
   }
 

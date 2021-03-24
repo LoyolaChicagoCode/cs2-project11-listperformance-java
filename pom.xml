@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.luc.cs</groupId>
-  <artifactId>cs2-lab3</artifactId>
+  <artifactId>cs2-lab10</artifactId>
   <version>0.1</version>
   
   <properties>
