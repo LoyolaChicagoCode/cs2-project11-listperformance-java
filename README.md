@@ -38,6 +38,15 @@ You will set it up and then take measurements.
 - Include a project-specific readme file including your reflection and any other thoughts or design decisions.
 - In IDEA, export your project as a zip file and submit as an attachment. 
 
+# Grading (SP22 - total 3.5)
+
+- 1 tests passing and completion of items marked TODO
+- 1.5 performance testing for increasing problem sizes
+- 1 written part
+  - 0.8 responses to the questions above
+  - 0.2 grammar, style, formatting
+- 0.5 (optional extra credit) DRY in performance testing 
+
 # Grading (total 5)
 
 - 1.5 tests passing and completion of items marked TODO
@@ -45,4 +54,4 @@ You will set it up and then take measurements.
 - 2 written part
   - 1.5 responses to the questions above
   - 0.5 grammar, style, formatting
-- 0.5 (optional) DRY in performance testing 
+- 0.5 (optional extra credit) DRY in performance testing 
