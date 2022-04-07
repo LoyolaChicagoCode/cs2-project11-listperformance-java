@@ -26,15 +26,11 @@ public class TestList {
     list = null;
   }
 
-  @Test
+  @Test(expected = IndexOutOfBoundsException.class)
   public void testSizeEmpty() {
     assertTrue(list.isEmpty());
     assertEquals(0, list.size());
-    try {
-      list.get(0);
-      fail("there should not be any items in the list");
-    } catch (Exception ex) {
-    }
+    list.get(0);
   }
 
   @Test
