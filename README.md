@@ -1,9 +1,8 @@
-# Loyola COMP 271 Lab 10: performance of array-based vs. linked lists
+# Loyola COMP 271 Project 11: list performance
 
 ## Group activity
 
-Collaborate with your teammates but submit individually.
-Clearly list the members of your team.
+In this activity, we'll evaluate the performance of array-based vs. linked lists.
 
 # Objectives
 
