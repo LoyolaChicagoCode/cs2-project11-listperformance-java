@@ -39,3 +39,4 @@ You will set it up and then take measurements.
   - 1.5 responses to the questions above
   - 0.5 grammar, style, formatting
 - 0.5 (optional extra credit) DRY in performance testing 
+- 1 (optional extra credit) shared spreadsheet with performance data and charts
